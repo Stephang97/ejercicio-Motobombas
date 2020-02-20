@@ -1,0 +1,25 @@
+{
+    "name": "ejercicioclases",
+    "version": "1.0.0",
+    "description": "aplicacion de POO",
+    "main": "pregunta.js",
+    "scripts": {
+        "start": "node src/main.js",
+        "dev": "nodemon src/main.js"
+    },
+    "keywords": [
+        "clases",
+        "bombero",
+        "motobomba"
+    ],
+    "author": "Abraham Gavilanez",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^3.0.1",
+        "express": "^4.17.1",
+        "morgan": "^1.9.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
